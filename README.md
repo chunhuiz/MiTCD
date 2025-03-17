@@ -2,7 +2,7 @@
 
 # Addressing Information Asymmetry: Deep Temporal Causality Discovery for Mixed Time Series
 
-_This is the official implementation of **MiTCD** in *IEEE Transactions on Pattern Recognition and Machine Intelligence* 2025._
+_This is the official implementation of **MiTCD** in *IEEE Transactions on Pattern Analysis and Machine Intelligence* (TPAMI)2025._
 
 </div>
 
