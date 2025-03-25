@@ -120,3 +120,22 @@ Also, you can specify GPU and tune other hyperparameters, e.g., adding:
 
 
 
+## 🔗 Citation
+
+If you find our work useful, please consider citing our paper.
+
+- [Addressing Information Asymmetry: Deep Temporal Causality Discovery for Mixed Time Series.](https://ieeexplore.ieee.org/document/10937933) Jiawei Chen and Chunhui Zhao, IEEE Transactions on Pattern Analysis and Machine Intelligence, doi: 10.1109/TPAMI.2025.3553957.
+
+```BibTeX
+@ARTICLE{Chen2025MiTCD,
+  author={Chen, Jiawei and Zhao, Chunhui},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Addressing Information Asymmetry: Deep Temporal Causality Discovery for Mixed Time Series}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-18},
+  doi={10.1109/TPAMI.2025.3553957}}
+```
+
+
